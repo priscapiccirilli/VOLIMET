@@ -7,7 +7,7 @@ The repository contains four folders:
 ### en-source
 
 Contains **source English sentences** from Europarl, containing **literal** verb-objects, e.g., _address question_ (lit folder) and **metaphorical** verb-objects, e.g., _tackle question_ (met folder). <br/>
-- *onlykeep.tsv files contain the full source sentence with its respective verb-object. <br/>
+- *onlykeep.tsv files contain the full source sentences with their respective verb-object. <br/>
 - *allinfo.tsv files list all verb-objects that were contained in the English sentences, along with their different inflections and their numbers.
 
 ### en2de and en2fr
