@@ -21,7 +21,7 @@ We also provide human judgements regarding figurativeness of the translated lite
 
 This folder contains:
 - The guidelines for properly aligning English verb-objects to their respective German and French translations.
-- The guidelines for judging whether phrases in the target languages are figurative or literal.
+- The guidelines provided to expert annotators for judging whether phrases in the target languages are figurative or literal.
 
 ### Citation
 
