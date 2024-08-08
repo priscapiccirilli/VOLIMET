@@ -9,9 +9,13 @@ The repository contains four folders:
 Contains **source English sentences** extracted from Europarl, containing **literal** verb-objects, e.g., _address question_ (lit folder) and **metaphorical** verb-objects, e.g., _tackle question_ (met folder). <br/>
 - *onlykeep.tsv files contain the full sentences with their respective verb-object and their inflection. <br/>
 - *allinfo.tsv files list all verb-objects that were found in the sentences, the number of sentences containing those verb-objects, and the different inflections of the verb-objects. 
+
 ### en2de and en2fr
 
-These folders contain the **source literal/metaphorical** (lit/met folders) **English sentences** and their **German/French translations**.<br/>
+These folders contain the **source English sentences** containing **literal/metaphorical** (lit/met folders) verb-objects and their human-produced **German/French translations** extracted from Europarl. <br/>
+- *onlykeep.tsv files contain the English sentences, which verb-object and its inflection can be found in the respective sentences, its German/French translated sentence. Additionally, we provide gold standard alignments of the English verb-objects with their corresponding translations in the target languages. <br/>
+- *allinfo.tsv
+
 We also provide human judgements regarding figurativeness of the translated literal/metaphorical verb-objects:<br/>
 - main tsv file containing the majority judgement<br/>
 - the individual judgement files (individual-judgements folder)
