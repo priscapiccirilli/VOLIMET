@@ -17,8 +17,8 @@ These folders contain the **source English sentences** containing **literal/meta
 - *allinfo.tsv files contain all information across verb-objects: the number of sentences containing those verb-objects, their different inflections, their corresponding alignments and translations, as well as majority human judgements regarding the figurativeness of the corresponding translations.
 
 We also provide human judgements regarding figurativeness of the translated literal/metaphorical verb-objects:<br/>
-- main tsv file containing the majority judgement<br/>
-- the individual judgement files (individual-judgements folder)
+- main .tsv file containing all the verb-object translations, the three human judgements and the majority judgement. <br/>
+- we also provide the annotation file of each annotator in the individual-judgements folder. 
 
 ### guidelines
 
