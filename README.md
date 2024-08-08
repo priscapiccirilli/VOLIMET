@@ -14,7 +14,7 @@ Contains **source English sentences** extracted from Europarl, containing **lite
 
 These folders contain the **source English sentences** containing **literal/metaphorical** (lit/met folders) verb-objects and their human-produced **German/French translations** extracted from Europarl. <br/>
 - *onlykeep.tsv files contain the English sentences, which verb-object and its inflection can be found in the respective sentences, its German/French translated sentence. Additionally, we provide gold standard alignments of the English verb-objects with their corresponding translations in the target languages. <br/>
-- *allinfo.tsv
+- *allinfo.tsv files contain all information across verb-objects: the number of sentences containing those verb-objects, their different inflections, their corresponding alignments and translations, as well as majority human judgements regarding the figurativeness of the corresponding translations.
 
 We also provide human judgements regarding figurativeness of the translated literal/metaphorical verb-objects:<br/>
 - main tsv file containing the majority judgement<br/>
